@@ -12,3 +12,8 @@
 *.sln
 *.exe
 *.Assembly*
+*.Up2Date
+*ModelSnapshot*
+*InitialCreate*
+*MvcApplication*
+*.http
