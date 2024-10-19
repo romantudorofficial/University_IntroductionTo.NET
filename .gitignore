@@ -1,0 +1,14 @@
+*.vs
+*.csproj*
+*.props
+*.targets
+*.json
+*.cache
+*.pdb
+*.g.cs
+*.editorconfig
+*.dll
+*.FileListAbsolute.txt
+*.sln
+*.exe
+*.Assembly*
